@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🤔 I’m currently studying on Eafit a systems engineering degree.
+- ⚡ I’m currently learning Haskell, Java, Python and Lua.
+- 💬 I'm currently learning the OOP and functional programming paradigms.
+- 🌱 I'm new in Github :)
 <!--
 **dsalazar444/dsalazar444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
